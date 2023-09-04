@@ -390,7 +390,7 @@ grid-template-columns: repeat(auto-fit, minmax(27rem, 2fr)); ;
     position: absolute;
     top: -4rem;left: 50%;
     transform: translate(-50%);
-    background: var(--green);
+    background: var(--blue);
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
     height: 25rem;

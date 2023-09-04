@@ -222,15 +222,13 @@ section:nth-child(even){
     gap: 2rem;
 }
 .about .row .image{
-    flex: 1 1 45 rem;
-    height: auto;
-    align-items:center;
+    flex: 1 1 80 rem;
+    align-items: center;
 }
 
 .about .row .image img{
     width: 100%;
-    height: auto;
-    align-items:center;
+    align-items: center;
 }
 
 .about .row .content{
@@ -390,8 +388,8 @@ grid-template-columns: repeat(auto-fit, minmax(27rem, 2fr)); ;
     position: absolute;
     top: -4rem;left: 50%;
     transform: translate(-50%);
-    background: var(--blue);
-    border-bottom-left-radius: 50%;
+    background: var(--yellow);
+    border-bottom-left-radius: 100%;
     border-bottom-right-radius: 50%;
     height: 25rem;
     width: 120%;
